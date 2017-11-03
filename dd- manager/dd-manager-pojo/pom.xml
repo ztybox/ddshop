@@ -12,6 +12,5 @@
     <packaging>jar</packaging>
     <groupId>com.zty.ddshop</groupId>
     <artifactId>dd-manager-pojo</artifactId>
-
-
+    <!--注释代码-->
 </project>
